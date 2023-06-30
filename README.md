@@ -1,5 +1,1 @@
-# Parse_podcast_xml
-# Parse_podcast_xml
-# Parse_podcast_xml
-# Parse_podcast_xml
-# Parse_podcast_xml
+python parse.py xml_url_of_podcast
